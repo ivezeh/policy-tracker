@@ -18,4 +18,19 @@ The **Predictive Tax Policy Impact Simulator** is a React-based web application 
    ```bash
    git clone https://github.com/ivezeh/predictive-tax-policy-simulator.git
    cd predictive-tax-policy-simulator
-  ```
+   ```
+
+2. **Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. **Run the backend server:
+   ```bash
+   python3 app.py
+   ```
+
+4. **Run the development server:
+   ```bash
+   npm run dev
+   ```
